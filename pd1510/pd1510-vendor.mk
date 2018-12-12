@@ -53,6 +53,8 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/pd1510/proprietary/vendor/lib/libwcnss_qmi.so:system/vendor/lib/libwcnss_qmi.so \
     vendor/vivo/pd1510/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/vivo/pd1510/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/vivo/pd1510/proprietary/vendor/lib/com.quicinc.cne.api@1.0.so:system/vendor/lib/com.quicinc.cne.api@1.0.so \
+    vendor/vivo/pd1510/proprietary/vendor/lib/com.quicinc.cne.constants@1.0.so:system/vendor/lib/com.quicinc.cne.constants@1.0.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
